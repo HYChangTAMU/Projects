@@ -1,4 +1,4 @@
-# Financial-Data-Analysis
+# Projects - Systematic Trading Strategies
 This is a repository for the projects I have done in Systematic Trading Strategies (FINC637). 
 The codes are written in Python with commonly used packages for data analysis, including pandas, numpy, statsmodels.api, scipy, sklearn, and matplotlib. 
 The data comes from Kenneth R. French Data Library and CRSP dataset.
