@@ -3,7 +3,7 @@ This is a repository for the projects I have done in Systematic Trading Strategi
 The codes are written in Python with commonly used packages for data analysis, including pandas, numpy, statsmodels.api, scipy, sklearn, and matplotlib. 
 The data comes from Yahoo Finance, Kenneth R. French Data Library, and CRSP dataset.
 Since some of the datasets are not open to public, those will be saved and accessed from a private drive.
-Project 1, 2, and 5 are individual projects, which involves no collaboration.\
+Project 1, 2, and 5 are individual projects, which involves no collaboration.
 Project 3 and 4 are team projects, but the codes are written myself.
 
 
